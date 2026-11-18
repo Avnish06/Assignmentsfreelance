@@ -1,0 +1,10 @@
+# Server environment file (Local secrets - DO NOT COMMIT)
+.env
+.env*.local
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
